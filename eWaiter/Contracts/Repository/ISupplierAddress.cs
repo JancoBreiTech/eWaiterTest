@@ -7,5 +7,6 @@ namespace Entities.Repository
 {
     public interface ISupplierAddress: IRepositoryBase<SupplierAddress>
     {
+        IEnumerable<SupplierAddress> SupplierByAddress(Guid supplierAddressId);
     }
 }

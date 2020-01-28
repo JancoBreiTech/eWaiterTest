@@ -5154,11 +5154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Contracts\\Contracts.csproj",
+      "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\JancoSteenkamp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Contracts\\obj\\",
+      "outputPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JancoSteenkamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5174,8 +5174,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Entities\\Entities.csproj"
+            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Entities\\Entities.csproj"
             }
           }
         }

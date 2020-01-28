@@ -8565,11 +8565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiterTest.csproj",
+      "projectUniqueName": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\eWaiterTest\\eWaiterTest.csproj",
       "projectName": "eWaiterTest",
-      "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiterTest.csproj",
+      "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\eWaiterTest\\eWaiterTest.csproj",
       "packagesPath": "C:\\Users\\JancoSteenkamp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\obj\\",
+      "outputPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\eWaiterTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JancoSteenkamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8585,11 +8585,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\Entities\\Entities.csproj"
+            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\JancoSteenkamp\\Documents\\GtihubRepos\\eWaiterTest\\eWaiter\\LoggerService\\LoggerService.csproj"
             }
           }
         }

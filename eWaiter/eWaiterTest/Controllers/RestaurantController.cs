@@ -44,7 +44,7 @@ namespace eWaiterTest.Controllers
             }
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{id}", Name ="OwnerById")]
         public IActionResult GetOwnerById(Guid id)
         {
             try
