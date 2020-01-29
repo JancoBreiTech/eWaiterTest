@@ -1,0 +1,76 @@
+2020-01-29 10:45:45.8667 INFO Here is info message from the controller.
+2020-01-29 10:45:45.9455 DEBUG Here is debug message from the controller.
+2020-01-29 10:45:45.9668 WARN Here is warn message from the controller.
+2020-01-29 10:45:45.9895 ERROR Here is error message from the controller.
+2020-01-29 12:11:16.5221 INFO Returned all item types from database.
+2020-01-29 12:12:14.7208 INFO Returned all item statusses from database.
+2020-01-29 12:12:25.3644 INFO Returned all item categories from database.
+2020-01-29 12:27:43.1332 INFO Returned all item categories from database.
+2020-01-29 12:27:51.9237 INFO Returned all item statusses from database.
+2020-01-29 12:27:57.5396 INFO Returned all item types from database.
+2020-01-29 12:38:02.7432 INFO Returned category with id: 6265fa11-f565-bcef-80e4-08996e962ace
+2020-01-29 12:38:19.4794 INFO Returned type with id: da54776a-ca6e-6ce1-cf17-1f8873889ca6
+2020-01-29 12:38:41.6584 INFO Returned owner with id: 0777f3cb-df43-4d24-6db6-00f6fe866eed
+2020-01-29 12:56:20.7581 INFO Returned owner with details for id: 6265fa11-f565-bcef-80e4-08996e962ace
+2020-01-29 12:57:02.6423 INFO Returned type with details for id: da54776a-ca6e-6ce1-cf17-1f8873889ca6
+2020-01-29 12:57:20.2991 INFO Returned status with details for id: 0777f3cb-df43-4d24-6db6-00f6fe866eed
+2020-01-29 12:58:41.1104 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:02:22.0142 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:17:38.0270 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:18:58.7696 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:19:36.4148 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:21:12.6898 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:27:50.4540 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:27:58.5467 INFO Returned all item categories from database.
+2020-01-29 13:28:30.2759 INFO Returned category with id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:28:55.2244 INFO Returned category with id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:31:22.9242 INFO Returned category with id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:31:30.7946 INFO Returned all item categories from database.
+2020-01-29 13:34:08.3406 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:36:37.6619 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:41:42.2249 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:42:22.2551 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:50:10.2141 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:50:55.9996 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 13:51:49.8015 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 14:55:46.8601 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:05:16.2351 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:08:15.8658 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:14:37.1288 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:15:42.6962 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:23:05.3942 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:25:18.6788 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:27:06.9315 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:28:12.0203 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:30:30.2550 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:36:18.5345 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:36:18.7164 ERROR Something went wrong inside GetItemCategoryWithDetails action: Error mapping types.
+
+Mapping types:
+ItemCategory -> ItemCategoryDto
+Entities.Models.ItemCategory -> Entities.DataTransferObjects.MenuItemDTOs.ItemCategoryDto
+
+Type Map configuration:
+ItemCategory -> ItemCategoryDto
+Entities.Models.ItemCategory -> Entities.DataTransferObjects.MenuItemDTOs.ItemCategoryDto
+
+Destination Member:
+MenuItem
+
+2020-01-29 15:41:52.9813 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:41:53.1715 ERROR Something went wrong inside GetItemCategoryWithDetails action: Error mapping types.
+
+Mapping types:
+ItemCategory -> ItemCategoryDto
+Entities.Models.ItemCategory -> Entities.DataTransferObjects.MenuItemDTOs.ItemCategoryDto
+
+Type Map configuration:
+ItemCategory -> ItemCategoryDto
+Entities.Models.ItemCategory -> Entities.DataTransferObjects.MenuItemDTOs.ItemCategoryDto
+
+Destination Member:
+MenuItem
+
+2020-01-29 15:43:27.3371 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:44:27.2451 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
+2020-01-29 15:45:26.8732 INFO Returned owner with details for id: 429d0c51-449b-9ce2-1316-0b9dba6efb79
